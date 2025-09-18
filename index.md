@@ -1,15 +1,12 @@
-<div style="display: flex; gap: 2rem;">
+<div style="display: flex; gap: 2rem; max-width: 1200px; margin: 0 auto;">
 
   <!-- Main Content -->
-  <div style="flex: 4;">
+  <div style="flex: 5;">
 
     <!-- Image placeholder -->
     <div style="text-align: center; margin-bottom: 1rem;">
-      <img src="https://media.licdn.com/dms/image/v2/D4D03AQE_Z_vdcpp-cg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709585955214?e=1761177600&v=beta&t=ef5Dyz_qSwLQQxmBMAHrAQSClKtn8bTBllJu4DpKJ_4" alt="Profile Image" style="max-width: 100%; height: auto; border-radius: 8px;">
+      <img src="https://via.placeholder.com/400x250.png?text=Profile+Image" alt="Profile Image" style="max-width: 100%; height: auto; border-radius: 8px;">
     </div>
-
-    <h1>Javier Chouza's Portfolio</h1>
-    <p>Welcome to my portfolio! Here are some interesting projects I have worked on:</p>
 
     <h2>Featured Projects</h2>
     <ul>
@@ -34,7 +31,7 @@
   </div>
 
   <!-- Sidebar / Lateral Content -->
-  <div style="flex: 2; border-left: 1px solid #ddd; padding-left: 1rem;">
+  <div style="flex: 2; border-left: 1px solid #ddd; padding-left: 2rem;">
     
     <h2>Other Achievements & Projects</h2>
     <ul>
