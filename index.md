@@ -4,7 +4,7 @@
   <div style="flex: 5;">
 
     <div style="text-align: center; margin-bottom: 1rem;">
-      <img src="assets/profile_photo.jpg" alt="Profile Image" style="max-width: 100%; height: auto; border-radius: 8px;">
+      <img src="assets/profile_photo.jpg" alt="Profile Image" style="max-width: 80%; height: auto; border-radius: 8px;">
     </div>
 
     <h2>Featured Projects</h2>
