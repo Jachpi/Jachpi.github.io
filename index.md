@@ -1,7 +1,7 @@
 <div style="display: flex; gap: 2rem; max-width: 1500px; margin: 0 auto;">
 
   <!-- Main Content -->
-  <div style="flex: 5;">
+  <div style="flex: 6;">
 
     <div style="text-align: center; margin-bottom: 1rem;">
       <img src="assets/profile_photo.jpg" alt="Profile Image" style="max-width: 60%; height: auto; border-radius: 8px;">
@@ -31,9 +31,9 @@
   </div>
 
   <!-- Sidebar / Lateral Content -->
-  <div style="flex: 2; border-left: 1px solid #ddd; padding-left: 2rem;">
+  <div style="flex: 3; border-left: 1px solid #ddd; padding-left: 2rem;">
     
-    <h2>Other Achievements & Projects</h2>
+    <h2>Other Achievements</h2>
     <ul>
       <li>Participated in Ada Byron (2023 and 2025)</li>
       <li>Feedback leader and Innovation leader badge at "Liderazgo colaborativo e innovador (Vodafone Campus Lab)" (2023)</li>
