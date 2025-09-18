@@ -1,7 +1,12 @@
 <div style="display: flex; gap: 2rem;">
 
   <!-- Main Content -->
-  <div style="flex: 3;">
+  <div style="flex: 4;">
+
+    <!-- Image placeholder -->
+    <div style="text-align: center; margin-bottom: 1rem;">
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQE_Z_vdcpp-cg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709585955214?e=1761177600&v=beta&t=ef5Dyz_qSwLQQxmBMAHrAQSClKtn8bTBllJu4DpKJ_4" alt="Profile Image" style="max-width: 100%; height: auto; border-radius: 8px;">
+    </div>
 
     <h1>Javier Chouza's Portfolio</h1>
     <p>Welcome to my portfolio! Here are some interesting projects I have worked on:</p>
@@ -29,14 +34,14 @@
   </div>
 
   <!-- Sidebar / Lateral Content -->
-  <div style="flex: 1; border-left: 1px solid #ddd; padding-left: 1rem;">
+  <div style="flex: 2; border-left: 1px solid #ddd; padding-left: 1rem;">
     
     <h2>Other Achievements & Projects</h2>
     <ul>
       <li>Participated in Ada Byron (2023 and 2025)</li>
       <li>Feedback leader and Innovation leader badge at "Liderazgo colaborativo e innovador (Vodafone Campus Lab)" (2023)</li>
       <li>Computer Science club leader (2024–2025)</li>
-      <li>Participation in game jams with friends such as OLC-CodeJam 2025 (https://github.com/MagnoElMagnifico/olc-codejam-2025)</li>
+      <li>Participation in hackathons and coding workshops</li>
     </ul>
 
   </div>
