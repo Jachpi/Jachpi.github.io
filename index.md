@@ -12,6 +12,7 @@
       <li>
         <a href="https://github.com/HevCuesta/TransportHelper">Transport Helper</a> — A mobile app designed for TEA teenagers to help them use Madrid's public transportation independently. Presented at the TalenTEA contest and won first place in the trasTEA competition.
       </li>
+      <div></div>
       <li>
         <a href="https://github.com/Proyecto-de-Computacion-I-y-II/Front">Food Advisor</a> — A full-stack web app developed for the <em>Proyecto de Computación I y II</em> course.<br>
         <strong>Frontend:</strong> Built with TypeScript, HTML, and CSS, offering a user-friendly interface.<br>
